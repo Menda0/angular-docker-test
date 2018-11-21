@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
-This is a seed project for Angular with Docker. Here you have a dockerfile configuration who builds and runs Angular based application. This proof of concepted is was based on the article (*"Run Angular in a Docker Container using Multi-Stage builds"*)[https://malcoded.com/posts/angular-docker]
+This is a seed project for Angular with Docker. Here you have a dockerfile configuration who builds and runs Angular based application. This proof of concepted is was based on the article [*"Run Angular in a Docker Container using Multi-Stage builds"*]([)https://malcoded.com/posts/angular-docker)
 
 
 ## Development server
